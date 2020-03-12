@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-lg-6">
         <h2>Tambah Barang</h2>
-        <form action="" method="post">
+        <form action="tambah_act.php" method="post">
             <table class="table">
                 <tr>
                     <th>Nama Barang</th>
