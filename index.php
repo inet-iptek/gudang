@@ -3,6 +3,7 @@
     <div class="row">
         <div class="col-lg-6">
             <h2>Data Barang</h2>
+            <a href="tambah.php" class="btn btn-success mb-2">Tambah</a>
             <table class="table">
                 <tr>
                     <th>No</th>
